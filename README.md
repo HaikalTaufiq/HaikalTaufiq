@@ -14,7 +14,7 @@
 
 ```typescript
 const haikal = {
-  location: "Batam, Indonesia",
+  location: "Indonesia",
   role: "Full Stack Developer",
   interests: ["Web", "Mobile", "Game Dev", "IoT"],
   learning: ["Next.js", "Microservices", "AI"]
@@ -48,8 +48,6 @@ const haikal = {
 ### GitHub Stats
 
 <div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=haikaltaufiq&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
 
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=haikaltaufiq&theme=react-dark&hide_border=true&bg_color=0d1117)
 
