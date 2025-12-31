@@ -1,116 +1,56 @@
 <div align="center">
-  
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
-<div style="font-family: 'Poppins', sans-serif;">
+# Haikal Taufiq
 
-# -- Haikal Taufiq --
+**Full Stack Developer**
 
-### Software Developer
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://haikaltaufiq.github.io/portofolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-</div>
+[Portfolio](https://haikaltaufiq.github.io/portofolio/) • [LinkedIn](https://linkedin.com/in/yourprofile) • [Email](mailto:your.email@example.com)
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
-
 ### About Me
+
 ```typescript
 const haikal = {
-  location: "Indonesia",
+  location: "Batam, Indonesia",
   role: "Full Stack Developer",
-  interests: ["Web Development", "Mobile Development", "Game Development"],
-  currentlyLearning: ["Next.js", "Microservices", "AI Integration"],
-  funFact: "I turn coffee into code"
+  interests: ["Web", "Mobile", "Game Dev", "IoT"],
+  learning: ["Next.js", "Microservices", "AI"]
 };
 ```
 
+---
+
 ### Tech Stack
 
-<details open>
-<summary><b>Frontend Development</b></summary>
-<br>
+**Frontend**  
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff) ![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=fff)
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="45" height="45"/>
-</p>
+**Backend**  
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=fff) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=fff) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)
 
-</details>
+**Mobile**  
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=fff) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=fff)
 
-<details open>
-<summary><b>Backend Development</b></summary>
-<br>
+**Game Dev**  
+![Unity](https://img.shields.io/badge/-Unity-000?style=flat&logo=unity) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=fff)
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-</p>
+**Database**  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=fff) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=000)
 
-</details>
-
-<details open>
-<summary><b>Mobile Development</b></summary>
-<br>
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="45" height="45"/>
-</p>
-
-</details>
-
-<details open>
-<summary><b>Game Development</b></summary>
-<br>
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="45" height="45"/>
-</p>
-
-</details>
-
-<details open>
-<summary><b>Database & Cloud</b></summary>
-<br>
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="45" height="45"/>
-</p>
-
-</details>
-
-<details open>
-<summary><b>IoT & Hardware</b></summary>
-<br>
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/espressif.svg" alt="ESP32" width="45" height="45"/>
-</p>
-
-</details>
+**IoT**  
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=fff) ![ESP32](https://img.shields.io/badge/-ESP32-000?style=flat&logo=espressif&logoColor=fff)
 
 ---
 
-### Activity Graph
+### GitHub Stats
 
 <div align="center">
-  
-[![Haikal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=haikaltaufiq&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=haikaltaufiq&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
+
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=haikaltaufiq&theme=react-dark&hide_border=true&bg_color=0d1117)
 
 </div>
